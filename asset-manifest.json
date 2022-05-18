@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/men-tshirts/static/css/main.eb49ba68.css",
+    "main.js": "/men-tshirts/static/js/main.c137e747.js",
+    "static/js/787.cd597d5f.chunk.js": "/men-tshirts/static/js/787.cd597d5f.chunk.js",
+    "index.html": "/men-tshirts/index.html",
+    "main.eb49ba68.css.map": "/men-tshirts/static/css/main.eb49ba68.css.map",
+    "main.c137e747.js.map": "/men-tshirts/static/js/main.c137e747.js.map",
+    "787.cd597d5f.chunk.js.map": "/men-tshirts/static/js/787.cd597d5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb49ba68.css",
+    "static/js/main.c137e747.js"
+  ]
+}
