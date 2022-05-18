@@ -1,0 +1,35 @@
+.sold {
+  font-size: 11px;
+  color: #d0d0d1;
+  margin-bottom: 8px;
+}
+.brand_name {
+  color: #282c3f;
+  font-size: 14px;
+  font-weight: 600;
+  width: 450px;
+
+  justify-content: space-between;
+}
+.name {
+  color: #282c3f;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+.selectbox {
+  width: 4.5em;
+  height: 1.5em;
+  background-color: #f1f3f8;
+  margin-right: 5px;
+  margin-bottom: 8px;
+}
+.price_details {
+  display: flex;
+  flex-direction: row;
+  column-gap: 8px;
+  font-size: 13px;
+  font-weight: bold;
+}
+.delivery {
+  font-size: 12px;
+}

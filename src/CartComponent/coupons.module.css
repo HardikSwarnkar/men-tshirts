@@ -1,0 +1,80 @@
+.heading1 {
+  font-size: 13px;
+  font-weight: 600;
+  color: #535766;
+  text-transform: uppercase;
+  margin: 12px 0px 0px 5px;
+}
+.apply_div {
+  display: flex;
+  flex-direction: row;
+}
+.apply_heading {
+  margin: 14px 4px 0px 6px;
+  font-size: 14px;
+}
+.apply_button {
+  border: 1px solid #ff3f6c;
+  border-radius: 4px;
+  margin-right: 0;
+  background-color: white;
+  color: #ff3f6c;
+  font-size: 11px;
+  font-weight: 550;
+  margin: 5px 0px 0px 43%;
+  padding: 8px 15px 8px 15px;
+  text-align: center;
+}
+.price_para {
+  font-size: 12px;
+  font-weight: 650;
+  color: #535766;
+  text-transform: uppercase;
+  margin: 20px 0px 0px 5px;
+}
+.horizontal {
+  width: 95%;
+  margin: auto;
+  margin-top: 15px;
+  color: rgb(253, 247, 247);
+  opacity: 0.4;
+}
+.total {
+  display: flex;
+  flex-direction: row;
+  margin: 1.2em 0px 0px 5px;
+  font-size: 14px;
+}
+.currency {
+  /* margin-left: 19.2em; */
+  display: flex;
+  flex-direction: row;
+  column-gap: 0ch;
+}
+.total_price {
+  display: flex;
+  flex-direction: row;
+  margin: 1.5em 0px 0px 5px;
+  font-size: 13px;
+}
+.total_para {
+  width: 80%;
+}
+.currency_total {
+  display: flex;
+  flex-direction: row;
+  column-gap: 0ch;
+}
+.place_order {
+  border: 1px solid #ff3f6c;
+  border-radius: 2px;
+  margin-right: 0;
+  color: white;
+  background-color: hsl(346, 100%, 62%);
+  font-size: 13px;
+  font-weight: 550;
+  margin: 1.7em 5px 0px 5px;
+  text-align: center;
+  width: 96%;
+  height: 3.4em;
+}

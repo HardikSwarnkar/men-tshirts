@@ -1,0 +1,30 @@
+.offer {
+  border: 1px solid #dfdfe2;
+  margin: 3px;
+  width: 98%;
+  height: 8em;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+.iconDiv {
+  display: flex;
+  flex-direction: row;
+  margin: 15px 0px 0px 12px;
+}
+.heading1 {
+  font-size: 14px;
+  margin: 5px 0px 0px 8px;
+  font-weight: 550;
+}
+.heading2 {
+  font-size: 13px;
+  margin: 8px 5px 0px 26px;
+  color: rgb(58, 58, 58);
+  line-height: 1.5;
+}
+.heading3 {
+  font-size: 16px;
+  margin: 8px 5px 0px 26px;
+  color: #ff3f6c;
+  line-height: 1.5;
+}
